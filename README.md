@@ -1,5 +1,5 @@
-# JAX Testing
+# Example of a differentiable analysis
 
-random collection of things related to [jax](https://github.com/google/jax)
+Optimizing a cut for a single bin counting experiment with [jax](https://github.com/google/jax).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexander-held/jax-testing/master?filepath=Significance_optimization.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexander-held/differentiable-analysis-example/master?filepath=Significance_optimization.ipynb)

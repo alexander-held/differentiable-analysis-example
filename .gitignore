@@ -1,0 +1,10 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# notebook
+.ipynb_checkpoints
+
+# files produced in examples
+*.npz
+*.jax
